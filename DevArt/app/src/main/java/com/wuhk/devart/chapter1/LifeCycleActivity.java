@@ -9,6 +9,8 @@ import com.wuhk.devart.R;
 public class LifeCycleActivity extends AppCompatActivity {
     public static final String TAG = "LifeCycleActivity";
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
